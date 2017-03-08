@@ -5,6 +5,7 @@
 5. Edit//Options Kontrolle ob User Name, Email Address und Default File Contents Encoding = utf-8 passend
 6. READ Speichern name: README.md md = markdown
 7. github new repository
+8. Git Gui/Remote/add/ neuer name + neuer link
 
 ![Screenshot Ordner anlegen](screenshot.png)
 
