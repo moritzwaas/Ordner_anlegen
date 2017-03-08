@@ -4,5 +4,7 @@
 4. Ordner verknüpfen: Create New Repository
 5. Edit//Options Kontrolle ob User Name, Email Address und Default File Contents Encoding = utf-8 passend
 6. READ Speichern name: README.md md = markdown
+7. github new repository
 
+![Screenshot Ordner anlegen](Screenshot Ornder anlegen.jpg)
 
