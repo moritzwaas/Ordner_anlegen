@@ -8,4 +8,5 @@
 8. Git Gui/Remote/add/ neuer name + neuer link
 
 ![Screenshot Ordner anlegen](screenshot.png)
+Quelle: Screenshot Moritz Waas
 
