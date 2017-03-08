@@ -6,6 +6,7 @@
 ## 6. READ Speichern name: README.md md = markdown
 ## 7. github new repository
 ## 8. Git Gui/Remote/add/ neuer name + neuer link
+## 9. Bild einfügen: `![Screenshot Ordner anlegen](screenshot.PNG)`
 
 ![Screenshot Ordner anlegen](screenshot.PNG)
 Quelle: Screenshot Moritz Waas
