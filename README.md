@@ -6,5 +6,5 @@
 6. READ Speichern name: README.md md = markdown
 7. github new repository
 
-![Screenshot Ordner anlegen](ScreenshotOrnderanlegen.png)
+![Screenshot Ordner anlegen](screenshot.png)
 
