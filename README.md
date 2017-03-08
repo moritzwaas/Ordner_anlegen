@@ -1,4 +1,4 @@
-1. Neues Notepad file
+# 1. Neues Notepad file
 2. Ordner anlegen  ==>Name: Ordner_anlegen
 3. git repository erstellen
 4. Ordner verknüpfen: Create New Repository
@@ -7,6 +7,6 @@
 7. github new repository
 8. Git Gui/Remote/add/ neuer name + neuer link
 
-![Screenshot Ordner anlegen](screenshot.png)
+![Screenshot Ordner anlegen](screenshot.PNG)
 Quelle: Screenshot Moritz Waas
 
